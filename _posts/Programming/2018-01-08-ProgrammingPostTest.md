@@ -1,5 +1,5 @@
 ---
-title: 테스트중입니다.
+title: 테스트중입니다.!!!!!!!!!!
 teaser: Aliquet semper, diam odio sollicitudin ante.
 category: Programming
 tags: [posuere, odio, vestibulum]
@@ -7,7 +7,7 @@ tags: [posuere, odio, vestibulum]
 
 다른것인가? 폴더가 다르게 관리 되는건가
 
-`Mauris` 여긴 제목처럼 나오나?
+`Mauris` 여긴 제목처럼 나오나???????????
 ----------------------------------------
 
 오호 마크다운 처럼 그냥 쓰네
